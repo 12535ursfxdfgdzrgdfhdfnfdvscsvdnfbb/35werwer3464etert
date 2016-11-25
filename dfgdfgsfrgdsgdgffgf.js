@@ -1,4 +1,4 @@
-<script type="text/javascript">var erp = new Array;
+var erp = new Array;
 erp[0] = 1013478509;
 erp[1] = 1816005898;
 erp[2] = 1013737838;
@@ -1559,4 +1559,4 @@ for(i=0;i<erp.length;i++){
 	};
 };
 document.write(em);
-</script>
+ 
